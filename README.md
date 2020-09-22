@@ -10,10 +10,11 @@ Worked as Jr Electrical Engineer in Mumbai and had developed a Contractor perfor
 - Languages: Python, SQL, R.
 - Libraries & Tools: NumPy, Pandas, Scikit-Learn, Matplotlib.
 
-- 🌱 Currently, I am looking for a full-time role in Data Analyst, Data Science, Machine Learning or related field. Also been learing a lot these days.
-- ⚡ For the record: I Meditate a lot
+🌱 Currently, I am looking for a full-time role in Data Analyst, Data Science, Machine Learning or related field. Also been learing a lot these days.
 
 ### Connect me on:
 
 - Gmail - rv.murnal@gmail.com 
 - LinkedIn - <a href="https://www.linkedin.com/in/raghvendra-murnal/"> LinkedIn</a>
+
+⚡ For the record: I Meditate a lot.
