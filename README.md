@@ -7,8 +7,8 @@ Currently I am working in Infosys as a Process Executive in Bangalore. Also I ha
 I have Worked as a Jr Electrical Engineer in Mumbai and here I had developed a **Contractor Performance Tracking Tool** using **Excel** to check and analyze the work of the different contractors who were working with us.
 
 ### Skills 🔥
-- Languages: Python, SQL, R.
-- Libraries & Tools: NumPy, Pandas, Scikit-Learn, Matplotlib, Seaborn.
+- **Languages**: Python, SQL, R.
+- **Libraries & Tools**: NumPy, Pandas, Scikit-Learn, Matplotlib, Seaborn.
 
 🌱 Currently, I am looking for a full-time role in Data Analyst, Data Science, Machine Learning or related field.
 
