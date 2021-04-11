@@ -1,10 +1,6 @@
 ### Hello People👋
 
-I'm Raghvendra Murnal, a B.E Graduate in Electrical and Electronics Engineer at Jain College of Engineering Belgaum. I have a professional experience of 4+ years with a demonstrated history of working in the information technology and services industry as well as Electrical field . Skilled in **Analysis of data** and **Reporting using Microsoft Excel**😄.
-
-Currently I am working in Infosys as a Process Executive in Bangalore. Also I have recently finished an Internship in Nuclei Technologies as a Data Science Intern. I have worked on some amazing project here, where I have analyzed the sales of different products for different locations for Hypermarkets using **Python**. Also I had developed a prediction model for detecting Dementia for different patients with some better accuracy starting from data pre-processing till Machine Learning modeling.
-
-I have Worked as a Jr Electrical Engineer in Mumbai and here I had developed a **Contractor Performance Tracking Tool** using **Excel** to check and analyze the work of the different contractors who were working with us.
+I'm Raghvendra Murnal, a B.E Graduate in Electrical and Electronics Engineer. I have a professional experience of 4+ years with a demonstrated history of working in the information technology and services industry as well as Electrical field. Skilled in **Analysis of data** and **Reporting using Microsoft Excel**😄.
 
 ### Skills 🔥
 - **Languages**: Python, SQL, R.
