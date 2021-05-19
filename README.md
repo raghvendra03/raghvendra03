@@ -15,7 +15,6 @@ You can checkout my **Tableau Profile** from this Link - **[Raghvendra Murnal](h
 - **Gmail** - rv.murnal@gmail.com 
 - **LinkedIn** - <a href="https://www.linkedin.com/in/raghvendra-murnal/"> LinkedIn</a>
 - **Website** - <a href="https://raghvendra03.github.io/raghvendramurnal/"> Raghvendra Murnal</a>
-- **Hackerearth** - <a href="https://www.hackerearth.com/@rv.murnal"> Profile</a>
 
 ⚡ For the record: I Meditate a lot.
 
