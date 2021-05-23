@@ -1,14 +1,13 @@
 ### Hello People👋
 
-I'm Raghvendra Murnal, a B.E Graduate in Electrical and Electronics Engineer. I have a professional experience of 4+ years with a demonstrated history of working in the information technology and services industry as well as Electrical field. Skilled in **Analysis of data** and **Reporting using Microsoft Excel**😄.
+I'm Raghvendra Murnal, Budding Data Analyst & Machine Learning Enthusiast. I have a professional experience of 4+ years with a demonstrated history of working in the information technology and services industry as well as Electrical field.
 
-### Skills 🔥
+### Technologies & Tools 🔥
 - **Languages**: Python, SQL, R.
-- **Libraries & Tools**: NumPy, Pandas, Scikit-Learn, Matplotlib, Seaborn.
+- **Libraries & Tools**: NumPy, Pandas, Scikit-Learn, Matplotlib, Seaborn. 
 
 You can checkout my **Tableau Profile** from this Link - **[Raghvendra Murnal](https://public.tableau.com/profile/raghvendra.murnal#!/)**
 
-🌱 Currently, I am looking for a full-time role in Data Analyst, Data Science, Machine Learning or related field.
 
 ### Connect me on:
 
