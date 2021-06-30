@@ -16,5 +16,3 @@ You can checkout my **Tableau Profile** from this Link - **[Raghvendra Murnal](h
 - **Website** - <a href="https://raghvendra03.github.io/raghvendramurnal/"> Raghvendra Murnal</a>
 
 ⚡ For the record: I Meditate a lot.
-
-[![HitCount](http://hits.dwyl.com/raghvendra03/raghvendra03.svg)](http://hits.dwyl.com/raghvendra03/raghvendra03)
