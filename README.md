@@ -2,6 +2,8 @@
 
 I'm Raghvendra Murnal, Budding Data Analyst & Machine Learning Enthusiast. I have a professional experience of 5+ years with a demonstrated history of working in the information technology & services industry and Electrical field.
 
+I am doing 66 Days of Data Challange and I am updating all the details about the journey. 
+
 ### Technologies & Tools 🔥
 - **Languages**: Python, SQL, R.
 - **Libraries & Tools**: NumPy, Pandas, Scikit-Learn, Matplotlib, Seaborn. 
