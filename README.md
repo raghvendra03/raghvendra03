@@ -6,6 +6,7 @@ I'm Raghvendra Murnal, Budding Data Analyst & Machine Learning Enthusiast. I hav
 ⌚️ I am also doing the 66 Days of Data Challange and updating all the details regarding it. 
 
 ### Technologies & Tools 🔥
+<a target="_blank" href="https://icons8.comundefined">Python</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>
 - **Languages**: Python, SQL, R.
 - **Libraries & Tools**: NumPy, Pandas, Scikit-Learn, Matplotlib, Seaborn. 
 
