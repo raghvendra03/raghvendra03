@@ -12,8 +12,6 @@ I'm Raghvendra Murnal, Budding Data Analyst & Machine Learning Enthusiast. I hav
 ### You can checkout my 📇
 
 - **Tableau Profile** - **[raghvendra.murnal](https://public.tableau.com/profile/raghvendra.murnal#!/)**
-- **Website** - <a href="https://raghvendra03.github.io/raghvendramurnal/"> Raghvendra Murnal</a>
-- **Medium** - <a href="https://medium.com/@raghu03/"> @raghu03</a>
 
 ### You can reach me on 📧 
 
