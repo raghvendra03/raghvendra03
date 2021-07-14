@@ -20,6 +20,3 @@ I'm Raghvendra Murnal, Budding Data Analyst & Machine Learning Enthusiast. I hav
 - **Twitter** - <a href="https://twitter.com/RaghavendraPMur/"> @RaghavendraPMur</a>
 
 ⚡ For the record: I Meditate a lot 🧘🏽‍♂️
-
-<!-- Twitter -->
-<i class="fab fa-twitter"></i>
