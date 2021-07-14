@@ -20,3 +20,5 @@ I'm Raghvendra Murnal, Budding Data Analyst & Machine Learning Enthusiast. I hav
 - **Twitter** - <a href="https://twitter.com/RaghavendraPMur/"> @RaghavendraPMur</a>
 
 ⚡ For the record: I Meditate a lot 🧘🏽‍♂️
+
+<div>Icons made by <a href="https://www.freepik.com" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
