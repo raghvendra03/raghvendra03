@@ -19,6 +19,8 @@ I'm Raghvendra Murnal, Budding Analytics & Machine Learning Enthusiast. I have a
 - **LinkedIn** - <a href="https://www.linkedin.com/in/raghvendra-murnal/"> @raghvendra-murnal</a>
 - **Twitter** - <a href="https://twitter.com/RaghavendraPMur/"> @RaghavendraPMur</a>
 
+bower install bootstrap-social
+
   <a href="https://twitter.com/RaghavendraPMur/">
      <class="btn btn-social-icon btn-twitter">
     <span class="fa fa-twitter"></span>
