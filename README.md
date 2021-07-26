@@ -19,7 +19,9 @@ I'm Raghvendra Murnal, Budding Analytics & Machine Learning Enthusiast. I have a
 - **LinkedIn** - <a href="https://www.linkedin.com/in/raghvendra-murnal/"> @raghvendra-murnal</a>
 - **Twitter** - <a href="https://twitter.com/RaghavendraPMur/"> @RaghavendraPMur</a>
 
-https://raw.githubusercontent.com/iconic/open-iconic/master/svg/[Twitter].svg
+  <a class="btn btn-social-icon btn-twitter">
+    <span class="fa fa-twitter"></span>
+  </a>
 
 ⚡ For the record: I Meditate 🧘🏽‍♂️
 
