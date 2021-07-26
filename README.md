@@ -20,3 +20,5 @@ I'm Raghvendra Murnal, Budding Analytics & Machine Learning Enthusiast. I have a
 - **Twitter** - <a href="https://twitter.com/RaghavendraPMur/"> @RaghavendraPMur</a>
 
 ⚡ For the record: I Meditate 🧘🏽‍♂️
+
+![](https://komarev.com/ghpvc/?username=raghvendra03)
