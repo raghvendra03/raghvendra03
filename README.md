@@ -21,6 +21,4 @@ I'm Raghvendra Murnal, Budding Analytics & Machine Learning Enthusiast. I have a
 
 ⚡ For the record: I Meditate 🧘🏽‍♂️
 
-![](https://profile-counter.glitch.me/{raghvendra03}/count.svg)
-
 ![](https://komarev.com/ghpvc/?username=raghvendra03)
