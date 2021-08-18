@@ -5,7 +5,9 @@
 - I'm a self learner and continously learning Analytics, Data Science, Statistics and Mathematics with ML. 
 
 💻 Currently I 'm working with **Infosys**  
-⌚️ Currently doing 66 Days of Data Challange and updating my journey in here. 
+⌚️ Also documenting my journey with data with 2 initiative
+   - 66 Days of Data Challange by Ken Jee
+   - 30 Days of ML Challange by Kaggle 
 
 ### Technologies & Tools 🔥
 - **Languages**: Python, SQL.
