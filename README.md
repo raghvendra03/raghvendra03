@@ -7,7 +7,6 @@
 💻 Currently I 'm working with **Infosys**  
 ⌚️ Also documenting my journey with data with 2 initiative
    - 66 Days of Data Challange by Ken Jee
-   - 30 Days of ML Challange by Kaggle 
 
 ### Technologies & Tools 🔥
 - **Languages**: Python, SQL.
