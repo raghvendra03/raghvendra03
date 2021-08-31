@@ -3,12 +3,10 @@
 - I'm Raghvendra Murnal, Budding Analytics & Machine Learning Enthusiast. I have a professional experience of 5+ years with a working history in the information technology &         services industry, Finance and Electrical field. 
 - I love to gather insights and work with data. 
 - I'm a self learner and continously learning Analytics, Data Science, Statistics and Mathematics with ML. 
+- :iphone: I am also learning how things work with the help of data in the real world. 
 
 💻 Currently I 'm working with **Infosys**  
-⌚️ I am also documenting my journey with data 
-   - 66 Days of Data Challange by Ken Jee
-
-:iphone: I am also learning how things work with the help of data in the real world. 
+⌚️ I am also documenting my journey with 66 Days of Data Challange by Ken Jee
 
 ### Technologies & Tools 🔥
 - **Languages**: Python, SQL.
