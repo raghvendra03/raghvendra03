@@ -1,9 +1,6 @@
 ### Hello People👋
 
-- I'm a self learner and continously learning Analytics, Data Science, Statistics and Mathematics with ML. 
-- I am also learning how things work with the help of data by gathering insights in the real world. 
-
-💻 Currently I 'm working with **Infosys**  
+💻 I'm a self learner and continously learning Analytics, Data Science, Statistics and Mathematics with ML.
 ⌚️ I am also documenting my journey with 66 Days of Data Challange by Ken Jee
 
 ### Technologies & Tools 🔥
