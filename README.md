@@ -4,14 +4,16 @@
 ⌚️ I am also documenting my journey with 66 Days of Data Challange by Ken Jee, Round 2
 
 ### Technologies & Tools 🔥
-- **Languages**: Python, SQL.
-- **Libraries & Tools**: NumPy, Pandas, Scikit-Learn, Matplotlib, Seaborn. 
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) 
-<img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white) 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+<img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">
+
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white) 
+
 <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white">
+
 <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white">
+
 ![SQL](https://img.shields.io/badge/SQL-217346?style=for-the-badge&logo=microsoft-sql&logoColor=white) 
 
 ### You can checkout my 📇
