@@ -1,6 +1,6 @@
 ### Hello People👋
 
-💻 I'm a self learner and continously learning Analytics, Data Science, Statistics and Mathematics with ML.
+💻 I'm Raghvendra, budding Data Scientiest with  Analytics, Data Science, Statistics and Mathematics with ML.
 ⌚️ I am also documenting my journey with 66 Days of Data Challange by Ken Jee, Round 2
 
 ### Technologies & Tools 🔥
