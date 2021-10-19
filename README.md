@@ -1,7 +1,7 @@
 ### Hello People👋
 
-💻 I'm Raghvendra, budding Data Scientiest with  Analytics, Data Science, Statistics and Mathematics with ML.
-⌚️ I am also documenting my journey with 66 Days of Data Challange by Ken Jee, Round 2
+💻 I'm Raghvendra, budding Data Scientiest with knowledge in Analytics, Statistics and Machine Learning.
+⌚️ I am also documenting my journey with 66 Days of Data Challange by Ken Jee, this time for Round 2
 
 ### Technologies & Tools 🔥
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
