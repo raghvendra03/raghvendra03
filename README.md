@@ -1,6 +1,6 @@
 ### Hello People👋
 
-💻 I'm Raghvendra, Data Science & Analytics practitioner with hands-on experience in SQL, Power BI & Microsoft Excel, with knowledge in Analytics, Statistics and Machine Learning. Also I like to Meditate 🧘🏽‍♂️
+💻 I'm Raghvendra, Data Science & Analytics practitioner with hands-on experience in SQL, Python, Power BI & Microsoft Excel, with knowledge in Analytics, Statistics and Machine Learning. Also I like to Meditate 🧘🏽‍♂️
 
 ### Technologies & Tools 🔥
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
