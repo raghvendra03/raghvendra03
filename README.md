@@ -1,6 +1,6 @@
 ### Hello People👋
 
-💻 I'm Raghvendra, Data Science & Analytics practitioner with hands-on experience in SQL, Python, Power BI & Microsoft Excel, with knowledge in Analytics, Statistics and Machine Learning. Also I like to Meditate 🧘🏽‍♂️
+💻 I'm a Data Science & Analytics practitioner with hands-on experience in SQL, Python, Power BI & Microsoft Excel, with knowledge in Analytics, Statistics and Machine Learning.
 
 ### Technologies & Tools 🔥
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -22,3 +22,5 @@
 - **Gmail** - rv.murnal@gmail.com 
 - **LinkedIn** - <a href="https://www.linkedin.com/in/raghvendra-murnal/"> @raghvendra-murnal</a>
 - **Twitter** - <a href="https://twitter.com/RaghavendraPMur/"> @RaghavendraPMur</a>
+
+PS: I like to Meditate 🧘🏽‍♂️
