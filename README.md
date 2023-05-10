@@ -21,5 +21,3 @@
 - **Gmail** - rv.murnal@gmail.com 
 - **LinkedIn** - <a href="https://www.linkedin.com/in/raghvendra-murnal/"> @raghvendra-murnal</a>
 - **Twitter** - <a href="https://twitter.com/RaghavendraPMur/"> @RaghavendraPMur</a>
-
-PS: I like to Meditate 🧘🏽‍♂️
