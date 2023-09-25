@@ -12,12 +12,8 @@
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-### You can checkout my 📇
-
-- **Tableau Profile** - **[raghvendra.murnal](https://public.tableau.com/profile/raghvendra.murnal#!/)**
 
 ### You can reach me on 📧 
 
 - **Gmail** - rv.murnal@gmail.com 
 - **LinkedIn** - <a href="https://www.linkedin.com/in/raghvendra-murnal/"> @raghvendra-murnal</a>
-- **Twitter** - <a href="https://twitter.com/RaghavendraPMur/"> @RaghavendraPMur</a>
