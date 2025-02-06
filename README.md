@@ -1,6 +1,6 @@
 ### Hello People👋
 
-💻 I'm a Data Analyst with hands-on experience in SQL, Python, Power BI & Microsoft Excel, and knowledge in Analytics, Statistics and Machine Learning.
+💻 I'm a Freelance Data Analyst with hands-on experience in SQL, Python, Power BI, AWS, Data modelling, Data warehousing, Snowflake & Microsoft Excel and knowledge in Analytics, Statistics and Machine Learning.
 
 ### Technologies & Tools 🔥
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
